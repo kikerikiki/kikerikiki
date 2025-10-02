@@ -3,6 +3,7 @@
   <img src="https://coldrock.games/assets/www/coldrock-games-trans-shadow.png">
 </p>
 
+
 <!-- Typing Animation -->
 <h1 align="center">
   Hi, I'm Kiki
@@ -55,6 +56,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
 
+![Snake animation](https://github.com/kikerikiki/kikerikiki/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 📫 Let’s connect  
