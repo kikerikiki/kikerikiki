@@ -26,7 +26,7 @@
 ## 🖥️ About Me (System Info)
 
 ```yaml
-User:        Kiki (aka Hawk 🦅)
+User:        Kiki
 Role:        Team Lead | CMO | GameDev | Author
 Company:     coldrock.games
 Specialties: GameDev (GameMaker/Raptor), WebDev (PHP, React, Node.js),
@@ -34,3 +34,15 @@ Specialties: GameDev (GameMaker/Raptor), WebDev (PHP, React, Node.js),
 Book:        "Der IT Source Code" 📘
 Motto:       "Learning never stops."
 
+## ⚒️ Installed Packages (Tech Stack)
+
+```ini
+[Core]
+PHP, JavaScript, React, Node.js
+MySQL, MSSQL, C#, Python
+
+[GameDev]
+GameMaker, Raptor Framework, QSS
+
+[Design]
+Blender, Procreate, Krita, Git
