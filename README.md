@@ -34,14 +34,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+
 
 ### 🔭 Mentionable Stuff
 - 🦖 [gml-raptor](https://github.com/ColdrockGames/gml-raptor) – Open-Source GameMaker-Framework  
 - 📚 [IT Source Code](https://coldrock.games) – das Lernbuch für die LAP  
 - 🎮 Projekte: **Ennead**, **Sir Franzi**, **VAC**, **Kikolo**  
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+
 
 
 ### 👨‍🚀 The Coldrock Founders
@@ -51,7 +53,8 @@
 | [@Breezy](https://github.com/RobertSkokic) | [@Grisgram](https://github.com/Grisgram) | [@Hawk](https://github.com/MaxLab2002) | [@Kiki](https://github.com/kikerikiki) | 
 
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+
 
 
 ### 📫 Let’s connect  
@@ -59,7 +62,8 @@
 - 💼 [LinkedIn](https://www.linkedin.com/)  
 - 🎮 [Itch.io](https://itch.io/)  
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+
 
 <p align="center">  
  <p align="center">
