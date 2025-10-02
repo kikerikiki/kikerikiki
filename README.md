@@ -1,123 +1,83 @@
-# ◢◣ KikerikikiOS v1.2 — Neon Boot
+# ✨ NEON//CYBERPUNK PROFILE — Kiki @ coldrock.games
 
-```text
-┌───────────────────────────────────────────────────────────────┐
-│   ███╗   ███╗███████╗ ██████╗  ████╗  ████╗  ██████╗  ████╗  │
-│   ████╗ ████║██╔════╝██╔═══██╗██╔══██╗██╔══██╗██╔═══██╗██╔══██╗│
-│   ██╔████╔██║█████╗  ██║   ██║██║  ██║██║  ██║██║   ██║██║  ██║│
-│   ██║╚██╔╝██║██╔══╝  ██║   ██║██║  ██║██║  ██║██║   ██║██║  ██║│
-│   ██║ ╚═╝ ██║███████╗╚██████╔╝██████╔╝██████╔╝╚██████╔╝██████╔╝│
-│   ╚═╝     ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝  ╚═════╝ ╚═════╝ │
-│                 c o l d r o c k   .   g a m e s                │
-└───────────────────────────────────────────────────────────────┘
-```
+![Neon Banner](assets/neon/neon-banner.gif)
 
-![mode](https://img.shields.io/badge/mode-NEON%20CYBERPUNK-ff00e5?style=for-the-badge)
-![os](https://img.shields.io/badge/OS-KikerikikiOS_v1.2-00fff0?style=for-the-badge)
-![build](https://img.shields.io/badge/build-passing-7CFC00?style=for-the-badge)
+![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=700&color=FF00E5&multiline=false&width=720&lines=coldrock.games%3A%3Acreate%28%29;build%3A+games+%2B+tools;style%3A+neon+%2B+cyberpunk;status%3A+always+learning)
 
 ---
 
-## ⦿ Neon Console
-
-```text
-[BOOT]  initializing subsystems.......................... OK
-[FX  ]  enabling neon shaders............................ OK
-[FS  ]  mount /coldrock /projects /assets................ OK
-[NET ]  link coldrock.games.............................. OK
-[USER]  login: kiki      tty: tty0     shell: /bin/sh
-[TIP ]  run: about | stack | projects | monitor | connect
-```
-
-```text
-$ help
-> about      – system info
-> stack      – installed packages
-> projects   – showcase
-> monitor    – live github telemetry
-> connect    – open coldrock.games
-```
+## ⚡️ About
+- Founder/Lead @ **coldrock.games**
+- **GameDev** (GameMaker/Raptor) • **WebDev** (PHP/React/Node)
+- **Automation** + **Education** — Co-Author of *Der IT Source Code*
+- Motto: *Learning never stops.*
 
 ---
 
-## ⦿ about
+## 🛠️ Neon Toolbelt
 
-```yaml
-user:        Kiki
-roles:       Team Lead, CMO, Game Developer, Author
-company:     coldrock.games
-focus:       GameMaker/Raptor • PHP/React/Node • Automation • Education
-book:        "Der IT Source Code"
-motto:       "Learning never stops."
-```
+**Core**
+  
+![PHP](https://img.shields.io/badge/PHP-0d0f1a?style=for-the-badge&logo=php&logoColor=00FFF0)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0f1a?style=for-the-badge&logo=javascript&logoColor=FFEA00)
+![React](https://img.shields.io/badge/React-0d0f1a?style=for-the-badge&logo=react&logoColor=00FFF0)
+![Node.js](https://img.shields.io/badge/Node.js-0d0f1a?style=for-the-badge&logo=node.js&logoColor=7CFC00)
+![MySQL](https://img.shields.io/badge/MySQL-0d0f1a?style=for-the-badge&logo=mysql&logoColor=00AAFF)
+![MSSQL](https://img.shields.io/badge/MSSQL-0d0f1a?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF4D4D)
 
----
+**Game / Design**
 
-## ⦿ stack
+![GameMaker](https://img.shields.io/badge/GameMaker-0d0f1a?style=for-the-badge&logo=yo-yo-games&logoColor=FF00E5)
+![Raptor](https://img.shields.io/badge/Raptor-0d0f1a?style=for-the-badge&logo=dragon&logoColor=FF00E5)
+![QSS](https://img.shields.io/badge/QSS-0d0f1a?style=for-the-badge&logo=terminal&logoColor=00FFF0)
+![Blender](https://img.shields.io/badge/Blender-0d0f1a?style=for-the-badge&logo=blender&logoColor=FF7B00)
+![Procreate](https://img.shields.io/badge/Procreate-0d0f1a?style=for-the-badge&logo=procreate&logoColor=FFFFFF)
+![Krita](https://img.shields.io/badge/Krita-0d0f1a?style=for-the-badge&logo=krita&logoColor=3BABFF)
 
-```ini
-[core]
-PHP, JavaScript, React, Node.js
-MySQL, MSSQL, C#, Python
+**Ops**
 
-[gamedev]
-GameMaker, Raptor Framework, QSS
-
-[tooling]
-Blender, Procreate, Krita, Git
-```
-
-> badges (neon):
->
-> ![PHP](https://img.shields.io/badge/PHP-111122?style=flat&logo=php&logoColor=00fff0)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-111122?style=flat&logo=javascript&logoColor=ffea00)
-> ![React](https://img.shields.io/badge/React-111122?style=flat&logo=react&logoColor=00fff0)
-> ![Node.js](https://img.shields.io/badge/Node.js-111122?style=flat&logo=node.js&logoColor=7CFC00)
-> ![GameMaker](https://img.shields.io/badge/GameMaker-111122?style=flat&logo=yo-yo-games&logoColor=ff00e5)
-> ![Raptor](https://img.shields.io/badge/Raptor-111122?style=flat&logo=dragon&logoColor=ff00e5)
-> ![MySQL](https://img.shields.io/badge/MySQL-111122?style=flat&logo=mysql&logoColor=00aaff)
-> ![MSSQL](https://img.shields.io/badge/MSSQL-111122?style=flat&logo=microsoftsqlserver&logoColor=ff4d4d)
+![Git](https://img.shields.io/badge/Git-0d0f1a?style=for-the-badge&logo=git&logoColor=FF6B6B)
+![Linux](https://img.shields.io/badge/Linux-0d0f1a?style=for-the-badge&logo=linux&logoColor=F6C915)
+![Docker](https://img.shields.io/badge/Docker-0d0f1a?style=for-the-badge&logo=docker&logoColor=00BFFF)
 
 ---
 
-## ⦿ projects
+## 🟣 Featured — Projects
 
-```log
-[OPEN]  Ennead          — rogue-like deckbuilder in ancient Egypt
-[OPEN]  Sir Franzi      — recruitment game for apprentices
-[OPEN]  VAC             — video management & upload system
-[OPEN]  Coders College  — learning platform for GML & Raptor
-```
+> Images are optional. Drop previews in `assets/projects/` to light it up.
 
----
-
-## ⦿ monitor (live)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kikerikiki&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ff00e5&icon_color=00fff0&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kikerikiki&hide_border=true&background=0D1117&ring=ff00e5&fire=ff5ea0&currStreakLabel=00fff0)
+| Ennead | Sir Franzi | VAC | Coders College |
+|:-:|:-:|:-:|:-:|
+| ![Ennead](assets/projects/ennead.png) | ![Sir Franzi](assets/projects/sirfranzi.png) | ![VAC](assets/projects/vac.png) | ![Coders College](assets/projects/coderscollege.png) |
+| Rogue-like deckbuilder | Recruiting game | Video management | Learning platform |
+| [Open](https://coldrock.games) | [Open](https://coldrock.games) | [Open](https://coldrock.games) | [Open](https://coldrock.games) |
 
 ---
 
-## ⦿ processes
+## 🔮 Live Telemetry
 
-![Snake animation](https://github.com/kikerikiki/kikerikiki/blob/output/github-contribution-grid-snake.svg)
+![Stats](https://github-readme-stats.vercel.app/api?username=kikerikiki&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF00E5&icon_color=00FFF0&text_color=C9D1D9)
 
----
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kikerikiki&hide_border=true&background=0D1117&ring=FF00E5&fire=FF5EA0&currStreakLabel=00FFF0)
 
-## ⦿ command
-
-```bash
-$ connect coldrock.games
-neon link: https://coldrock.games
-status: ONLINE ✅
-opening portal...
-```
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kikerikiki&bg_color=0D1117&color=00FFF0&line=FF00E5&point=7CFC00&area=true&hide_border=true)
 
 ---
 
-## ⦿ quicklinks
+## 🐍 Process Visualizer
+
+![Snake](https://github.com/kikerikiki/kikerikiki/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🏆 Cyber Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kikerikiki&theme=matrix&no-frame=true&margin-w=10&margin-h=10&column=6)
+
+---
+
+## 🔗 Links
 
 [Website](https://coldrock.games) • [Itch.io](https://itch.io/) • [LinkedIn](https://www.linkedin.com/)
 
-![visits](https://komarev.com/ghpvc/?username=kikerikiki&label=visits&color=ff00e5&style=for-the-badge)
+![visits](https://komarev.com/ghpvc/?username=kikerikiki&label=visits&color=FF00E5&style=for-the-badge)
