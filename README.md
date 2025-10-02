@@ -22,11 +22,16 @@
 
 ---
 
-### ⚒️ Tech Stack  
-`HTML` `CSS` `PHP` `JavaScript` `React` `Node.js` `Bootstrap` `TailwindCSS`  
-`MySQL` `MSSQL` `C#` 
-`GameMaker` `Raptor Framework`
-`Git` `Blender` 
+### ⚒️ Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=yo-yo-games&logoColor=white)
+![Raptor](https://img.shields.io/badge/Raptor-6A0DAD?style=for-the-badge&logo=dragon&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
