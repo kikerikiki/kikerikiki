@@ -1,19 +1,32 @@
-# KikerikikiOS v1.1 – Booting System...
+# KikerikikiOS v1.1 – Boot Sequence
 
 ```text
-             .__       .___                     __                                             
-  ____  ____ |  |    __| _/______  ____   ____ |  | __       _________    _____   ____   ______
-_/ ___\/  _ \|  |   / __ |\_  __ \/  _ \_/ ___\|  |/ /      / ___\__  \  /     \_/ __ \ /  ___/
-\  \__(  <_> )  |__/ /_/ | |  | \(  <_> )  \___|    <      / /_/  > __ \|  Y Y  \  ___/ \___ \ 
- \___  >____/|____/\____ | |__|   \____/ \___  >__|_ \ /\  \___  (____  /__|_|  /\___  >____  >
-     \/                 \/                   \/     \/ \/ /_____/     \/      \/     \/     \/ 
+  ___  _ _       _                 _                
+ / __|| (_)_ _  | |___  ___  _ _  | |__  ___  _ __ 
+ \__ \| | | ' \ | / _ \/ _ \| '_| | '_ \/ _ \| '_ \
+ |___/|_|_|_||_||_\___/\___/|_|   |_.__/\___/| .__/
+                                             |_|   
+            c o l d r o c k  .  g a m e s
 ```
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60AAFF&center=true&vCenter=true&width=720&lines=Initializing+Kiki+Profile;Loading+Coldrock+Modules;System+Status:+STABLE;Welcome+to+Kiki's+Profile)
+```text
+[BOOT]  KikerikikiOS v1.1
+[POST]  CPU................. OK
+[POST]  RAM................. OK
+[POST]  DISK................ OK
+[INIT]  Loading kernel modules................. OK
+[INIT]  Mounting /coldrock.................... OK
+[NET ]  Bringing up net0...................... OK
+[SVC ]  Starting services: www, db, raptor.... OK
+[AUTH]  user: kiki  shell: /bin/bash
+[INFO]  type 'help' for available commands
+```
+
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=60AAFF&center=true&vCenter=true&width=720&lines=KikerikikiOS+v1.1+online;Loading+modules...;coldrock.games+mounted;System+status:+OK;Welcome)
 
 ---
 
-## 🖥️ About Me (System Info)
+## SYSTEM INFO
 
 ```yaml
 User:        Kiki
@@ -27,23 +40,23 @@ Motto:       "Learning never stops."
 
 ---
 
-## ⚒️ Installed Packages (Tech Stack)
+## INSTALLED PACKAGES
 
 ```ini
-[Core]
+[core]
 PHP, JavaScript, React, Node.js
 MySQL, MSSQL, C#, Python
 
-[GameDev]
+[gamedev]
 GameMaker, Raptor Framework, QSS
 
-[Design]
+[tools]
 Blender, Procreate, Krita, Git
 ```
 
 ---
 
-## 🔭 System Logs (Projects)
+## SYSTEM LOGS (PROJECTS)
 
 ```log
 [INFO]  Ennead............. rogue-like deckbuilder in ancient Egypt
@@ -54,7 +67,7 @@ Blender, Procreate, Krita, Git
 
 ---
 
-## 📊 System Status (Live Stats)
+## SYSTEM STATUS (LIVE)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kikerikiki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=60AAFF&icon_color=60AAFF)
 
@@ -62,19 +75,19 @@ Blender, Procreate, Krita, Git
 
 ---
 
-## 🐍 Activity Snake (Processes)
+## PROCESSES (SNAKE)
 
 ![Snake animation](https://github.com/kikerikiki/kikerikiki/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🛰️ Easter Egg – Try this command
+## CONSOLE (TRY THIS)
 
 ```bash
-> connect coldrock.games
-Pinging server...
-Response: ACCESS GRANTED ✅
-Launching Coldrock Universe...
+$ connect coldrock.games
+pinging...
+response: ACCESS GRANTED
+launching: coldrock universe
 ```
 
 ---
