@@ -9,7 +9,7 @@ _/ ___\/  _ \|  |   / __ |\_  __ \/  _ \_/ ___\|  |/ /      / ___\__  \  /     \
      \/                 \/                   \/     \/ \/ /_____/     \/      \/     \/     \/ 
 ```
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60AAFF&center=true&vCenter=true&width=720&lines=Initializing+Hawk+Profile;Loading+Coldrock+Modules;System+Status:+STABLE;Welcome+to+Kiki's+Code+Universe)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60AAFF&center=true&vCenter=true&width=720&lines=Initializing+Kiki+Profile;Loading+Coldrock+Modules;System+Status:+STABLE;Welcome+to+Kiki's+Profile)
 
 ---
 
