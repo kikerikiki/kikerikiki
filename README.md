@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://coldrock.games/assets/banner.png" alt="Coldrock Banner" />
+  <img src="https://coldrock.games/assets/www/coldrock-games-trans-shadow.png" alt="Coldrock Banner" />
 </p>
 
 <!-- Typing Animation -->
