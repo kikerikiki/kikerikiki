@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://coldrock.games/assets/www/coldrock-games-trans-shadow.png" alt="Coldrock Banner" />
+  <img src="https://coldrock.games/assets/www/coldrock-games-trans-shadow.png">
 </p>
 
 <!-- Typing Animation -->
 <h1 align="center">
-  Hi, I'm Kiki🦅
+  Hi, I'm Kiki
 </h1>
 
 <p align="center">
