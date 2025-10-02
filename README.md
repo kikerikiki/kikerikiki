@@ -15,7 +15,7 @@
 ---
 
 ### 🎮 About Me
-- 🦅 Team Lead & Game Developer @ [Coldrock.Games](https://coldrock.games)  
+- 🦅 Team Lead & Game Developer @ [coldrock.games](https://coldrock.games)  
 - 📘 Autor von **IT Source Code**  
 - 💻 WebDev (PHP, JS, React), GameDev (GameMaker, Raptor) 
 - 🎓 Bildungs-Enthusiast – Lernen durch Games, Kurse & Challenges  
@@ -33,7 +33,7 @@
 ### 🔭 Mentionable Stuff
 - 🦖 [gml-raptor](https://github.com/ColdrockGames/gml-raptor) – Open-Source GameMaker-Framework  
 - 📚 [IT Source Code](https://coldrock.games) – das Lernbuch für die LAP  
-- 🎮 Projekte: **Ennead**, **Sir Franzi**, **VAC**  
+- 🎮 Projekte: **Ennead**, **Sir Franzi**, **VAC**, **Kikolo**  
 
 ---
 
