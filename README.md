@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  Hi, I'm Kiki – aka Hawk 🦅
+  Hi, I'm Kiki🦅
 </h1>
 
 <p align="center">
