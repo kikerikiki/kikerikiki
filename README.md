@@ -1,46 +1,59 @@
-# KikerikikiOS v1.1 – Boot Sequence
+# ◢◣ KikerikikiOS v1.2 — Neon Boot
 
 ```text
-  ___  _ _       _                 _                
- / __|| (_)_ _  | |___  ___  _ _  | |__  ___  _ __ 
- \__ \| | | ' \ | / _ \/ _ \| '_| | '_ \/ _ \| '_ \
- |___/|_|_|_||_||_\___/\___/|_|   |_.__/\___/| .__/
-                                             |_|   
-            c o l d r o c k  .  g a m e s
+┌───────────────────────────────────────────────────────────────┐
+│   ███╗   ███╗███████╗ ██████╗  ████╗  ████╗  ██████╗  ████╗  │
+│   ████╗ ████║██╔════╝██╔═══██╗██╔══██╗██╔══██╗██╔═══██╗██╔══██╗│
+│   ██╔████╔██║█████╗  ██║   ██║██║  ██║██║  ██║██║   ██║██║  ██║│
+│   ██║╚██╔╝██║██╔══╝  ██║   ██║██║  ██║██║  ██║██║   ██║██║  ██║│
+│   ██║ ╚═╝ ██║███████╗╚██████╔╝██████╔╝██████╔╝╚██████╔╝██████╔╝│
+│   ╚═╝     ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝  ╚═════╝ ╚═════╝ │
+│                 c o l d r o c k   .   g a m e s                │
+└───────────────────────────────────────────────────────────────┘
 ```
 
-```text
-[BOOT]  KikerikikiOS v1.1
-[POST]  CPU................. OK
-[POST]  RAM................. OK
-[POST]  DISK................ OK
-[INIT]  Loading kernel modules................. OK
-[INIT]  Mounting /coldrock.................... OK
-[NET ]  Bringing up net0...................... OK
-[SVC ]  Starting services: www, db, raptor.... OK
-[AUTH]  user: kiki  shell: /bin/bash
-[INFO]  type 'help' for available commands
-```
-
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=60AAFF&center=true&vCenter=true&width=720&lines=KikerikikiOS+v1.1+online;Loading+modules...;coldrock.games+mounted;System+status:+OK;Welcome)
+![mode](https://img.shields.io/badge/mode-NEON%20CYBERPUNK-ff00e5?style=for-the-badge)
+![os](https://img.shields.io/badge/OS-KikerikikiOS_v1.2-00fff0?style=for-the-badge)
+![build](https://img.shields.io/badge/build-passing-7CFC00?style=for-the-badge)
 
 ---
 
-## SYSTEM INFO
+## ⦿ Neon Console
+
+```text
+[BOOT]  initializing subsystems.......................... OK
+[FX  ]  enabling neon shaders............................ OK
+[FS  ]  mount /coldrock /projects /assets................ OK
+[NET ]  link coldrock.games.............................. OK
+[USER]  login: kiki      tty: tty0     shell: /bin/sh
+[TIP ]  run: about | stack | projects | monitor | connect
+```
+
+```text
+$ help
+> about      – system info
+> stack      – installed packages
+> projects   – showcase
+> monitor    – live github telemetry
+> connect    – open coldrock.games
+```
+
+---
+
+## ⦿ about
 
 ```yaml
-User:        Kiki
-Role:        Team Lead | CMO | GameDev | Author
-Company:     coldrock.games
-Specialties: GameDev (GameMaker/Raptor), WebDev (PHP, React, Node.js),
-             Automation Tools, Education Projects
-Book:        "Der IT Source Code" 📘
-Motto:       "Learning never stops."
+user:        Kiki
+roles:       Team Lead, CMO, Game Developer, Author
+company:     coldrock.games
+focus:       GameMaker/Raptor • PHP/React/Node • Automation • Education
+book:        "Der IT Source Code"
+motto:       "Learning never stops."
 ```
 
 ---
 
-## INSTALLED PACKAGES
+## ⦿ stack
 
 ```ini
 [core]
@@ -50,46 +63,61 @@ MySQL, MSSQL, C#, Python
 [gamedev]
 GameMaker, Raptor Framework, QSS
 
-[tools]
+[tooling]
 Blender, Procreate, Krita, Git
 ```
 
+> badges (neon):
+>
+> ![PHP](https://img.shields.io/badge/PHP-111122?style=flat&logo=php&logoColor=00fff0)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-111122?style=flat&logo=javascript&logoColor=ffea00)
+> ![React](https://img.shields.io/badge/React-111122?style=flat&logo=react&logoColor=00fff0)
+> ![Node.js](https://img.shields.io/badge/Node.js-111122?style=flat&logo=node.js&logoColor=7CFC00)
+> ![GameMaker](https://img.shields.io/badge/GameMaker-111122?style=flat&logo=yo-yo-games&logoColor=ff00e5)
+> ![Raptor](https://img.shields.io/badge/Raptor-111122?style=flat&logo=dragon&logoColor=ff00e5)
+> ![MySQL](https://img.shields.io/badge/MySQL-111122?style=flat&logo=mysql&logoColor=00aaff)
+> ![MSSQL](https://img.shields.io/badge/MSSQL-111122?style=flat&logo=microsoftsqlserver&logoColor=ff4d4d)
+
 ---
 
-## SYSTEM LOGS (PROJECTS)
+## ⦿ projects
 
 ```log
-[INFO]  Ennead............. rogue-like deckbuilder in ancient Egypt
-[INFO]  Sir Franzi......... recruitment game for apprentices
-[INFO]  VAC................ video management & upload system
-[INFO]  Coders College..... Coldrock’s learning platform
+[OPEN]  Ennead          — rogue-like deckbuilder in ancient Egypt
+[OPEN]  Sir Franzi      — recruitment game for apprentices
+[OPEN]  VAC             — video management & upload system
+[OPEN]  Coders College  — learning platform for GML & Raptor
 ```
 
 ---
 
-## SYSTEM STATUS (LIVE)
+## ⦿ monitor (live)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kikerikiki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=60AAFF&icon_color=60AAFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kikerikiki&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ff00e5&icon_color=00fff0&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kikerikiki&theme=radical&hide_border=true&background=0D1117&ring=60AAFF&fire=FF4080&currStreakLabel=60AAFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kikerikiki&hide_border=true&background=0D1117&ring=ff00e5&fire=ff5ea0&currStreakLabel=00fff0)
 
 ---
 
-## PROCESSES (SNAKE)
+## ⦿ processes
 
 ![Snake animation](https://github.com/kikerikiki/kikerikiki/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## CONSOLE (TRY THIS)
+## ⦿ command
 
 ```bash
 $ connect coldrock.games
-pinging...
-response: ACCESS GRANTED
-launching: coldrock universe
+neon link: https://coldrock.games
+status: ONLINE ✅
+opening portal...
 ```
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=kikerikiki&label=system%20accesses&color=60AAFF&style=for-the-badge)
+## ⦿ quicklinks
+
+[Website](https://coldrock.games) • [Itch.io](https://itch.io/) • [LinkedIn](https://www.linkedin.com/)
+
+![visits](https://komarev.com/ghpvc/?username=kikerikiki&label=visits&color=ff00e5&style=for-the-badge)
