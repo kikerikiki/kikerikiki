@@ -16,38 +16,27 @@
 
 ### 🎮 About Me
 - 🦅 Team Lead & Game Developer @ [Coldrock.Games](https://coldrock.games)  
-- 📘 Co-Autor von **Der IT Source Code** – Praxisbuch für Lehrlinge  
-- 💻 WebDev (PHP, JS, React), GameDev (GameMaker, Raptor), Automation-Tools  
+- 📘 Autor von **IT Source Code**  
+- 💻 WebDev (PHP, JS, React), GameDev (GameMaker, Raptor) 
 - 🎓 Bildungs-Enthusiast – Lernen durch Games, Kurse & Challenges  
-- 🎨 Nebenbei: Pixelart, UI-Design & kreative Projekte  
 
 ---
 
 ### ⚒️ Tech Stack  
 `HTML` `CSS` `PHP` `JavaScript` `React` `Node.js` `Bootstrap` `TailwindCSS`  
-`MySQL` `MSSQL` `C#` `Python`  
-`GameMaker` `Raptor Framework` `QSS`  
-`Git` `Blender` `Procreate` `Krita`
+`MySQL` `MSSQL` `C#` 
+`GameMaker` `Raptor Framework`
+`Git` `Blender` 
 
 ---
 
-### 🔭 Cool Stuff
+### 🔭 Mentionable Stuff
 - 🦖 [gml-raptor](https://github.com/ColdrockGames/gml-raptor) – Open-Source GameMaker-Framework  
-- 📚 [Der IT Source Code](https://coldrock.games) – das Lernbuch für die LAP  
+- 📚 [IT Source Code](https://coldrock.games) – das Lernbuch für die LAP  
 - 🎮 Projekte: **Ennead**, **Sir Franzi**, **VAC**  
 
 ---
 
-### 🎵 Favorite Games
-- Persona 3 Reload  
-- NieR: Automata  
-- Destiny  
-- Titanfall 2  
-- osu!  
-- Ghostrunner  
-- Journey  
-
----
 
 ### 👨‍🚀 Coldrock Founders
 @Breezy • @Grisgram • @Hawk • @Kiki  
