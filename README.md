@@ -12,7 +12,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4080FF&center=true&vCenter=true&width=600&lines=Code+is+my+Playground;GameDev+%7C+WebDev+%7C+CEO;Building+coldrock.games;Learning+Never+Stops" alt="Typing Animation" />
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+
 
 ### 🎮 About Me
 - 🦅 Team Lead & Game Developer @ [coldrock.games](https://coldrock.games)  
@@ -20,7 +21,7 @@
 - 💻 WebDev (PHP, JS, React), GameDev (GameMaker, Raptor) 
 - 🎓 Bildungs-Enthusiast – Lernen durch Games, Kurse & Challenges  
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
 
 ### ⚒️ Tech Stack
 
