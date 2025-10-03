@@ -22,9 +22,9 @@
 User:        Kiki 
 Role:        Team Lead | CMO | GameDev | Author
 Company:     coldrock.games
-Specialties: GameDev (GameMaker/Raptor), WebDev (PHP, React, Node.js),
+Specialties: GameDev (GameMaker/Raptor), WebDev (PHP, React, Javascript, Typescript),
              Automation Tools, Education Projects
-Book:        "IT Source Code" 📘
+Book:        "IT Source Code" 
 Motto:       "Learning never stops."
 ```
 
@@ -41,7 +41,7 @@ MySQL, MSSQL, C#
 GameMaker, Raptor Framework
 
 [Design]
-Blender, Git
+Blender, Pixlr, Paint.net
 ```
 
 ---
@@ -70,7 +70,7 @@ Blender, Git
 > connect coldrock.games
 Pinging server...
 Response: ACCESS GRANTED ✅
-Launching Coldrock Universe...
+Launching coldrock's coders colleague...
 ```
 
 ---
