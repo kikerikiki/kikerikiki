@@ -51,8 +51,8 @@ Blender, Git
 ```log
 [INFO]  Ennead............. rogue-like deckbuilder in ancient Egypt
 [INFO]  Sir Franzi......... recruitment game for apprentices
-[INFO]  VAC................ video management & upload system
-[INFO]  Coders College..... Coldrock’s learning platform
+[INFO]  VAC................ video management system
+[INFO]  Kikolo............. fun game for your free time
 ```
 
 ---
