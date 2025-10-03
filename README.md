@@ -35,13 +35,13 @@ Motto:       "Learning never stops."
 ```ini
 [Core]
 PHP, JavaScript, React, Node.js
-MySQL, MSSQL, C#, Python
+MySQL, MSSQL, C#
 
 [GameDev]
 GameMaker, Raptor Framework, QSS
 
 [Design]
-Blender, Procreate, Krita, Git
+Blender, Git
 ```
 
 ---
