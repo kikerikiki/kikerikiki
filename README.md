@@ -11,7 +11,7 @@ _/ ___\/  _ \|  |   / __ |\_  __ \/  _ \_/ ___\|  |/ /      / ___\__  \  /     \
                  C O L D R O C K   .  G A M E S   —   B O O T   S E Q U E N C E
 ```
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60AAFF&center=true&vCenter=true&width=720&lines=Initializing+Kiki+Profile;Loading+Coldrock+Modules;System+Status:+STABLE;Welcome+to+Kiki's+Github+Profile)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60AAFF&center=true&vCenter=true&width=720&lines=Initializing+Kiki+Profile;Loading+coldrock+Modules;System+Status:+STABLE;Welcome+to+Kiki's+Github+Profile)
 
 ---
 
