@@ -23,7 +23,6 @@ Role:        Team Lead | CMO | GameDev | Author
 Company:     coldrock.games
 Specialties: GameDev (GameMaker/Raptor), WebDev (PHP, React, Javascript, Typescript),
              Automation Tools, Education Projects
-Book:        "IT Source Code" 
 Motto:       "Learning never stops."
 ```
 
