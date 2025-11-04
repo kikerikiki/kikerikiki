@@ -19,7 +19,7 @@ _/ ___\/  _ \|  |   / __ |\_  __ \/  _ \_/ ___\|  |/ /      / ___\__  \  /     \
 
 ```yaml
 User:        Kiki 
-Role:        Team Lead | CMO | GameDev | Author
+Role:        Dev | CMO | GameDev | Author
 Company:     coldrock.games
 Specialties: GameDev (GameMaker/Raptor), WebDev (PHP, React, Javascript, Typescript),
              Automation Tools, Education Projects
