@@ -55,14 +55,6 @@ Blender, Pixlr, Paint.net
 
 ---
 
-## 📊 System Status (Live Stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kikerikiki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=60AAFF&icon_color=60AAFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kikerikiki&theme=radical&hide_border=true&background=0D1117&ring=60AAFF&fire=FF4080&currStreakLabel=60AAFF)
-
-
----
 
 ```bash
 > connect coldrock.games
