@@ -44,23 +44,11 @@ Blender, Pixlr, Paint.net
 
 ---
 
-## 🔭 System Logs (Projects)
-
-```log
-[INFO]  Ennead............. rogue-like deckbuilder in ancient Egypt
-[INFO]  Sir Franzi......... recruitment game for apprentices
-[INFO]  VAC................ video management system
-[INFO]  Kikolo............. fun game for your free time
-```
-
----
-
 
 ```bash
 > connect coldrock.games
 Pinging server...
 Response: ACCESS GRANTED ✅
-Launching coldrocks coders colleague...
 ```
 
 ---
