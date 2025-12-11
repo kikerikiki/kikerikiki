@@ -19,9 +19,9 @@ _/ ___\/  _ \|  |   / __ |\_  __ \/  _ \_/ ___\|  |/ /      / ___\__  \  /     \
 
 ```yaml
 User:        Kiki 
-Role:        CMO | GameDev | Author
+Role:        CEO | GameDev | Author
 Company:     coldrock.games
-Specialties: GameDev (GameMaker/Raptor), WebDev (PHP, React, Javascript, Typescript),
+Specialties: GameDev, WebDev,
              Automation Tools, Education Projects
 Motto:       "Learning never stops."
 ```
@@ -36,7 +36,7 @@ PHP, JavaScript, React, Node.js
 MySQL, MSSQL, C#
 
 [GameDev]
-GameMaker, Raptor Framework
+GameMaker, Raptor Framework, Godot
 
 [Design]
 Blender, Pixlr, Paint.net
